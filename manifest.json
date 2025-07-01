@@ -1,0 +1,14 @@
+{
+  "icons": [
+    {
+      "name": "Home",
+      "file": "icons/home.svg",
+      "url": "https://cdn.jsdelivr.net/gh/your-username/my-icon-cdn/icons/home.svg"
+    },
+    {
+      "name": "User",
+      "file": "icons/user.svg",
+      "url": "https://cdn.jsdelivr.net/gh/your-username/my-icon-cdn/icons/user.svg"
+    }
+  ]
+}
