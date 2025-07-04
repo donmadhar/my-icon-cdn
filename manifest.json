@@ -2,13 +2,11 @@
   "icons": [
     {
       "name": "Home",
-      "file": "icons/home.svg",
-      "url": "https://cdn.jsdelivr.net/gh/donmadhar/my-icon-cdn/icons/home.svg"
+      "file": "home.svg"
     },
     {
       "name": "User",
-      "file": "icons/user.svg",
-      "url": "https://cdn.jsdelivr.net/gh/donmadhar/my-icon-cdn/icons/user.svg"
+      "file": "user.svg"
     }
   ]
 }
